@@ -30,6 +30,10 @@ A pretty and customizable web app to deploy your DL model with ease
   
 4. Input a medical sentence (in Chinese) and see the recognized entities!
 
+<p align="center">
+  <a href="https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp"> <img src="https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp/raw/master/screenshot.png"></a> 
+</p>
+
 Have fun!
 
 ## License

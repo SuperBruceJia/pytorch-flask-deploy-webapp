@@ -1,0 +1,6 @@
+flask
+flasgger==0.8.1
+numpy
+pandas
+mod_wsgi
+torch==1.5.1

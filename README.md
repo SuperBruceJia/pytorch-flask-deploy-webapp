@@ -15,7 +15,9 @@ A pretty and customizable web app to deploy your DL model with ease
   ```
   docker build -t ner-model .
   ```
+  
   then
+  
   ```
   docker run -d -p 8000:8000 ner-model
   ```
@@ -29,3 +31,7 @@ A pretty and customizable web app to deploy your DL model with ease
 4. Input a medical sentence (in Chinese) and see the recognized entities!
 
 Have fun!
+
+## License
+
+MIT License

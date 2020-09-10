@@ -1,4 +1,4 @@
-## Deploy PyTorch Model with Flask + Swagger, and Docker as Web App
+## Deploy PyTorch Model with Flask and Docker as Web App
 
 A pretty and customizable web app to deploy your DL model with ease
 

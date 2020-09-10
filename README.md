@@ -26,4 +26,6 @@ A pretty and customizable web app to deploy your DL model with ease
   http://0.0.0.0:8000/apidocs
   ```
   
-4. Input a medical sentence (in Chinese) 
+4. Input a medical sentence (in Chinese) and see the recognized entities!
+
+Have fun!

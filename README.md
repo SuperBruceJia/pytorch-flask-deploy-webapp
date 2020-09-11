@@ -1,4 +1,4 @@
-## Deploy PyTorch Model with Flask and Docker as Web App
+## MedicalNER: Deploy PyTorch NER Model with Flask and Docker as Web App
 
 A pretty and customizable web app to deploy your DL model with ease
 

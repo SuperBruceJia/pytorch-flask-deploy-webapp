@@ -36,6 +36,10 @@ A pretty and customizable web app to deploy your DL model with ease
 
 Have fun!
 
+## Docker Image
+
+The Docker Images have been uploaded to [Docker Hub](https://hub.docker.com/r/shuyuej/ner-pytorch-model).
+
 ## License
 
 MIT License

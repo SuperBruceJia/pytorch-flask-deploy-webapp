@@ -1,0 +1,32 @@
+embedding_size: 50  # 30 ~ 50 dimensionality for ~ M corpus
+hidden_size: 256
+model_path: models/
+dataset_path: data/
+batch_size: 16
+dropout: 0.50
+learning_rate: 0.001
+lr_decay_step: 5
+lr_decay_rate: 0.90
+epochs: 1000
+weight_decay: 0.0005
+max_length: 120
+transfer_learning: False
+tags:
+  - E95f2a617
+  - E320ca3f6
+  - E340ca71c
+  - E1ceb2bd7
+  - E1deb2d6a
+  - E370cabd5
+  - E360caa42
+  - E310ca263
+  - E300ca0d0
+  - E18eb258b
+  - E3c0cb3b4
+  - E1beb2a44
+  - E3d0cb547
+  - E8ff29ca5
+  - E330ca589
+  - E1eeb2efd
+  - E17eb23f8
+  - E94f2a484

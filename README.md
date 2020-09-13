@@ -38,7 +38,7 @@ Have fun!
 
 ## Docker Image
 
-The Docker Images have been uploaded to [Docker Hub](https://hub.docker.com/r/shuyuej/ner-pytorch-model).
+The Docker Images have been uploaded to [Docker Hub](https://hub.docker.com/r/shuyuej/ner-pytorch-model/tags).
 
 ## License
 

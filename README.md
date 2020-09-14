@@ -78,6 +78,8 @@ The Docker Images have been uploaded to [Docker Hub](https://hub.docker.com/r/sh
 
 4. [The best Docker base image for your Python application](https://pythonspeed.com/articles/base-image-python-docker-images/)
 
+5. [Docker Container UTF-8 Encoding](https://developer.aliyun.com/article/175738)
+
 ## License
 
 MIT License

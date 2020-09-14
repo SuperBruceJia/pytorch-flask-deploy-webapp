@@ -40,6 +40,12 @@ Have fun!
 
 The Docker Images have been uploaded to [Docker Hub](https://hub.docker.com/r/shuyuej/ner-pytorch-model/tags).
 
+## Size of the Docker Image
+
+1. [Anaconda Python Environment](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp/tree/master/BiLSTM-docker-Anaconda) -> 2.22 GB
+
+2. [Standard Python Environment](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp/tree/master/BiLSTM-docker-Python) -> 617.96 MB
+
 ## License
 
 MIT License

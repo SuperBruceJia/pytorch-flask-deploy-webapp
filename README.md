@@ -43,14 +43,14 @@ The Docker Images have been uploaded to [Docker Hub](https://hub.docker.com/r/sh
 ## Size of the Docker Image
 
 1. [Anaconda Python Environment](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp/tree/master/BiLSTM-docker-Anaconda) -> 2.22 GB
-    ```
+
     Anaconda-built Python Environment, i.e., Anaconda + Python Environment
-    ```
+
 
 2. [Standard Python Environment](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp/tree/master/BiLSTM-docker-Python) -> 617.96 MB
-    ```
+
     Just Python Environment
-    ```
+
 
 ## License
 

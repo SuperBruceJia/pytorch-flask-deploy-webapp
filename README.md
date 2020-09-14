@@ -26,11 +26,9 @@ A pretty and customizable web app to deploy your Deep Learning (DL) model with e
   
     ```
     $ docker run -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8 -it --rm -d -p 8000:8000 ner-model
-    ```
-
+    
     or 
-
-    ```
+    
     $ docker run -d -p 8000:8000 ner-model
     ```
   
@@ -38,11 +36,9 @@ A pretty and customizable web app to deploy your Deep Learning (DL) model with e
   
     ```html
     http://0.0.0.0:8000/apidocs/#!/default/get_predict
-    ```
-
+    
     or 
-
-    ```html
+    
     http://0.0.0.0:8000/apidocs
     ```
   

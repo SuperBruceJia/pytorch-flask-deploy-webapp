@@ -58,16 +58,26 @@ The Docker Images have been uploaded to [Docker Hub](https://hub.docker.com/r/sh
 
 1. [Anaconda Python Environment](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp/tree/master/BiLSTM-docker-Anaconda) --> 2.22 GB (V1.0)
 
-    continuumio/anaconda3:4.4.0
+    *Used Image*: continuumio/anaconda3:4.4.0
 
 2. [Standard Python Environment](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp/tree/master/BiLSTM-docker-Python) --> 617.96 MB (V2.0)
 
-    Python:3
+    *Used Image*: Python:3
     
 3. [Smaller Python Environment](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp/tree/master/BiLSTM-docker-Python-Smaller) --> 447.05 MB (V4.0)
 
-    python:3.8-slim-buster
-    
+    *Used Image*: python:3.8-slim-buster
+
+## Reference Image and Readings
+
+1. [Python Image](https://hub.docker.com/_/python?tab=description)
+
+2. [Anaconda Image](https://hub.docker.com/r/continuumio/anaconda3)
+
+3. [My uploaded Docker Images](https://hub.docker.com/r/shuyuej/ner-pytorch-model/tags)
+
+4. [The best Docker base image for your Python application](https://pythonspeed.com/articles/base-image-python-docker-images/)
+
 ## License
 
 MIT License

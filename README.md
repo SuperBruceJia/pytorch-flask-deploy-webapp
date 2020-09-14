@@ -11,12 +11,14 @@ A pretty and customizable web app to deploy your DL model with ease
   ```
 
 2. Run the following instructions
-
+  
+  1). Build Docker Image
+  
   ```
   docker build -t ner-model .
   ```
   
-  then
+  2). Make and Run a container for the above Image
   
   ```
   docker run -d -p 8000:8000 ner-model

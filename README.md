@@ -64,7 +64,7 @@ The Docker Images have been uploaded to [Docker Hub](https://hub.docker.com/r/sh
 
     Python:3
     
-3. [Smaller Python Environment]() --> 501.02 MB
+3. [Smaller Python Environment](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp/tree/master/BiLSTM-docker-Python-Smaller) --> 501.02 MB
 
     python:3.8-slim-buster
     

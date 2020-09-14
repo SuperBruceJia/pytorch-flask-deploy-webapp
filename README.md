@@ -2,6 +2,10 @@
 
 A pretty and customizable web app to deploy your Deep Learning (DL) model with ease
 
+## Notice
+
+***This repo was to deploy any kind of ML or DL model(s) rather than just NER model.***
+
 ## Usage Demo
 
 1. Clone the repo

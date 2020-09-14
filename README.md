@@ -14,21 +14,21 @@ A pretty and customizable web app to deploy your Deep Learning (DL) model with e
   
     1). Build Docker Image
 
-      ```shell
-      $ docker build -t ner-model .
-      ```
+          ```shell
+          $ docker build -t ner-model .
+          ```
   
     2). Make and Run a container for the above Image
   
-    ```shell
-    docker run -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8 -it --rm -d -p 8000:8000 ner-model
-    ```
+        ```shell
+        docker run -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8 -it --rm -d -p 8000:8000 ner-model
+        ```
 
-    or 
+        or 
 
-    ```shell
-    $ docker run -d -p 8000:8000 ner-model
-    ```
+        ```shell
+        $ docker run -d -p 8000:8000 ner-model
+        ```
   
 3. Open the following URL (Google Chrome is recommended)  
   

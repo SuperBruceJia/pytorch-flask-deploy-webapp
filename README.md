@@ -68,7 +68,7 @@ The Docker Images have been uploaded to [Docker Hub](https://hub.docker.com/r/sh
 
     *Used Image*: python:3.8-slim-buster with Apache 2
 
-4. [Much Smaller Python Environment](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp/tree/master/BiLSTM-docker-Python-Smaller) --> 169.02 MB (V5.0)
+4. [Much Smaller Python Environment](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp/tree/master/BiLSTM-docker-Python-without-Apache) --> 169.02 MB (V5.0)
 
     *Used Image*: python:3.8-slim-buster without Apache 2
     
